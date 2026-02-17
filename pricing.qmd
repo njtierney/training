@@ -7,18 +7,16 @@ format:
     toc: false
 ---
 
-## Current Pricing
+**Early bird pricing** available for courses running through mid-2026.
 
-**Early bird pricing** available for courses running through mid-2026:
-
-- **Most courses**: $450 AUD
+**Most courses**: $450 AUD
   - Includes 6 hours of practical instruction
   - Plus 3×60 minute office hour sessions (1 during course, 2 follow-up)
   - Limited to 6 participants per course
 
-- **Targets & geotargets**: $900 AUD
+**`{targets}` & `{geotargets}`**: $900 AUD
   - Includes 12 hours of practical instruction
-  - Plus 3×60 minute office hour sessions
+  - Plus 3×60 minute office hour sessions (1 during course, 2 follow-up)
   - Limited to 6 participants per course
 
 All courses include:
