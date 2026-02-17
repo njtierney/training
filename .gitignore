@@ -20,3 +20,4 @@ site_libs/
 *.ipynb
 *.html
 .claude
+.how-to-submodule.md
