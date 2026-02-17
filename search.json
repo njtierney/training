@@ -28,18 +28,25 @@
     "text": "I provide hands-on courses in R, reproducible workflows, and data visualisation for professionals in government, industry, and research. My mission is to empower people with skills in data science and critical reasoning, so that they can do more.\nEach course has approximately 6 hours of course content delivered as an interactive practical lecture. There are three “office hour” (60 minute) sessions packaged into each course, which provide an opportunity to ask further questions about the course based on your experience using the materials. These are comprised of one during the course, and two in follow up, after the course is complete.\nThese follow-up office hours provide structured opportunities to practice skills, review concepts, and get help with applying what they have learnt in their own work.\nThe courses I currently offer are:\nEach course will be delivered over several hands-on, practical sessions, which will be spaced out over 1-2 weeks. The learners will have reading and exercises to complete prior to each lesson. As an example, the quarto for scientists course could be delivered like so:\nIn order to be most flexible, these sessions will be recorded so participants can watch the material again if they so chose.\nCourse numbers are limited and capped at 6 people for optimal learning.\nFor current pricing and availability, see the pricing page or contact me at info@njtierney.com."
   },
   {
-    "objectID": "index.html#learning-materials-and-philosophy-on-teaching",
-    "href": "index.html#learning-materials-and-philosophy-on-teaching",
+    "objectID": "index.html#free-forever",
+    "href": "index.html#free-forever",
     "title": "Data Science Training",
-    "section": "Learning materials and philosophy on teaching",
-    "text": "Learning materials and philosophy on teaching\nEach course will have a free online component, and a private component that only those taking the course can access. Each course will also have one scholarship space available for participants who otherwise could not afford to attend.\n\nFree, forever\nEach course has an online book with reading and learning material. For examples of this, see https://qmd4sci.njtierney.com/ and https://intro2rpkgs.njtierney.com/. These materials will always be free, and serve as a resource for learners, and also to share this knowledge with the wider community.\n\n\nLearner only content\nThere will also be content that is only for those taking the course. This includes the online practical sessions, as well as other concept videos introducing key concepts.\n\n\nPhilosophy on teaching\nI believe the value in courses comes from the time you put aside to learn, and the time with the instructor. I would like for people to be able to learn from these materials for free, if they so desire. The free resources accompanying each course will then be publicly available as a reference source. I believe this is a sustainable model as it provides something of value to the community, and also serves to advertise the courses."
+    "section": "Free, forever",
+    "text": "Free, forever\nEach course has an online book with reading and learning material. For examples of this, see https://qmd4sci.njtierney.com/ and https://intro2rpkgs.njtierney.com/. These materials will always be free, and serve as a resource for learners, and also to share this knowledge with the wider community."
   },
   {
-    "objectID": "index.html#course-learning-outcomes",
-    "href": "index.html#course-learning-outcomes",
+    "objectID": "index.html#learner-only-content",
+    "href": "index.html#learner-only-content",
     "title": "Data Science Training",
-    "section": "Course learning outcomes",
-    "text": "Course learning outcomes\nHere is a summary of each of the learning outcomes for each of the courses, to see more detail on the courses, click the links to the course website.\n\nR Best Practices"
+    "section": "Learner only content",
+    "text": "Learner only content\nThere will also be content that is only for those taking the course. This includes the online practical sessions, as well as other concept videos introducing key concepts."
+  },
+  {
+    "objectID": "index.html#philosophy-on-teaching",
+    "href": "index.html#philosophy-on-teaching",
+    "title": "Data Science Training",
+    "section": "Philosophy on teaching",
+    "text": "Philosophy on teaching\nI believe the value in courses comes from the time you put aside to learn, and the time with the instructor. I would like for people to be able to learn from these materials for free, if they so desire. The free resources accompanying each course will then be publicly available as a reference source. I believe this is a sustainable model as it provides something of value to the community, and also serves to advertise the courses."
   },
   {
     "objectID": "index.html#prerequisites",
@@ -60,7 +67,7 @@
     "href": "index.html#course-website",
     "title": "Data Science Training",
     "section": "Course website",
-    "text": "Course website\nhttps://r-best-practices.njtierney.com\n\nIntroduction to Quarto"
+    "text": "Course website\nhttps://r-best-practices.njtierney.com"
   },
   {
     "objectID": "index.html#prerequisites-1",
@@ -81,7 +88,7 @@
     "href": "index.html#course-website-1",
     "title": "Data Science Training",
     "section": "Course website",
-    "text": "Course website\nhttps://qmd4sci.njtierney.com\n\nMaking Better Graphics"
+    "text": "Course website\nhttps://qmd4sci.njtierney.com"
   },
   {
     "objectID": "index.html#prerequisites-2",
@@ -102,7 +109,7 @@
     "href": "index.html#course-website-2",
     "title": "Data Science Training",
     "section": "Course website",
-    "text": "Course website\nhttps://better-vis.njtierney.com\n\nIntroduction to Functions and Debugging"
+    "text": "Course website\nhttps://better-vis.njtierney.com"
   },
   {
     "objectID": "index.html#prerequisites-4",
@@ -123,7 +130,7 @@
     "href": "index.html#course-website-4",
     "title": "Data Science Training",
     "section": "Course website",
-    "text": "Course website\nhttps://gentle-git.njtierney.com\n\nUsing targets and geotargets"
+    "text": "Course website\nhttps://gentle-git.njtierney.com"
   },
   {
     "objectID": "index.html#prerequisites-6",
@@ -138,12 +145,5 @@
     "title": "Data Science Training",
     "section": "Learning outcomes",
     "text": "Learning outcomes\nBy the end of this course, you will be able to:\n\nCreate the basic structure of an R package\nManage dependencies with usethis and devtools\nCreate documentation with roxygen2\nWrite and run unit tests with testthat to verify package functionality\nUse Git and GitHub to put your R package online\nUnderstand next steps for advanced package development, including:\n\nAutomatically run tests with continuous integration via GitHub Actions\nMake your R package easily installable with the R Universe\nCreate professional package websites using pkgdown"
-  },
-  {
-    "objectID": "index.html#about-the-presenter",
-    "href": "index.html#about-the-presenter",
-    "title": "Data Science Training",
-    "section": "About the presenter:",
-    "text": "About the presenter:\nDr. Nicholas (Nick) Tierney is a Research Software Engineer, and freelance consultant with a PhD in Statistics who specialises in data analytics, R package development, and teaching. He wrote his first R package in 2015, neato, after being inspired by Dr. Hilary Parker’s blog post “writing an R package from scratch”.\nHis academic work has produced several widely-used packages (see his github). During his research fellowship at Monash University with Professor Dianne Cook, he developed tools for exploratory data analysis including visdat, naniar, and brolgar . He then went on to work with Professor Nick Golding at The Kids Research Institute Australia, working as a research software engineer to translate research methods into R packages. Specifically, conmat a tool used in pandemic modelling, and he maintained Nick Golding’s greta R package for statistical modelling using Google’s tensorflow.\nBeyond coding, Nick actively writes about R related projects at his blog, “credibly curious”. When not coding, Nick enjoys outdoor adventures and hiked the entire Pacific Crest Trail in 2023, documenting his journey at njt.micro.blog."
   }
 ]
