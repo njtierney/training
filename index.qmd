@@ -58,56 +58,56 @@ Course numbers are limited and capped at 6 people for optimal learning.
 
 **For current pricing and availability**, see the [pricing page](pricing.qmd) or contact me at `info@njtierney.com`.
 
-## Learning materials and philosophy on teaching
+# Learning materials and philosophy on teaching
 
 Each course will have a free online component, and a private component that only those taking the course can access. Each course will also have one scholarship space available for participants who otherwise could not afford to attend.
 
-### Free, forever
+## Free, forever
 
 Each course has an online book with reading and learning material. For examples of this, see https://qmd4sci.njtierney.com/ and https://intro2rpkgs.njtierney.com/. These materials will always be free, and serve as a resource for learners, and also to share this knowledge with the wider community. 
 
-### Learner only content
+## Learner only content
 
 There will also be content that is only for those taking the course. This includes the online practical sessions, as well as other concept videos introducing key concepts.
 
 
-### Philosophy on teaching
+## Philosophy on teaching
 
 I believe the value in courses comes from the time you put aside to learn, and the time with the instructor. I would like for people to be able to learn from these materials for free, if they so desire. The free resources accompanying each course will then be publicly available as a reference source. I believe this is a sustainable model as it provides something of value to the community, and also serves to advertise the courses.
 
-## Course learning outcomes
+# Course learning outcomes
 
 Here is a summary of each of the learning outcomes for each of the courses, to see more detail on the courses, click the links to the course website.
 
-### R Best Practices
+# R Best Practices
 
 {{< include course-materials/rbestpractices/outcomes.qmd >}}
 
-### Introduction to Quarto
+# Introduction to Quarto
 
 {{< include course-materials/qmd4sci/outcomes.qmd >}}
 
-### Making Better Graphics
+# Making Better Graphics
 
 {{< include course-materials/bettervis/outcomes.qmd >}}
 
-### Introduction to Functions and Debugging
+# Introduction to Functions and Debugging
 
 {{< include course-materials/fun2debug/outcomes.qmd >}}
 
-### Introduction to Git and GitHub
+# Introduction to Git and GitHub
 
 {{< include course-materials/gentlegit/outcomes.qmd >}}
 
-### Using targets and geotargets
+# Using targets and geotargets
 
 {{< include course-materials/gentletargets/outcomes.qmd >}}
 
-### Introduction to R packages
+# Introduction to R packages
 
 {{< include course-materials/intro2rpkgs/outcomes.qmd >}}
 
-## About the presenter:
+# About the instructor
 
 Dr. Nicholas (Nick) Tierney is a [Research Software Engineer](https://researchsoftware.org/), and freelance consultant with a PhD in Statistics who specialises in data analytics, R package development, and teaching. He wrote his first R package in 2015, [neato](https://github.com/njtierney/neato), after being inspired by Dr. Hilary Parker's blog post ["writing an R package from scratch"](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/). 
 
