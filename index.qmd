@@ -9,7 +9,6 @@ format:
   html:
     embed-resources: true
     toc: true
-    keep-md: true
   hikmah-pdf:
     geometry: 
       - left=1.25in
@@ -82,7 +81,7 @@ Here is a summary of each of the learning outcomes for each of the courses, to s
 
 ### R Best Practices
 
-{{< include course-materials/r-best-practices/outcomes.qmd >}}
+{{< include course-materials/rbestpractices/outcomes.qmd >}}
 
 ### Introduction to Quarto
 
@@ -90,7 +89,7 @@ Here is a summary of each of the learning outcomes for each of the courses, to s
 
 ### Making Better Graphics
 
-{{< include course-materials/better-vis/outcomes.qmd >}}
+{{< include course-materials/bettervis/outcomes.qmd >}}
 
 ### Introduction to Functions and Debugging
 
@@ -98,11 +97,11 @@ Here is a summary of each of the learning outcomes for each of the courses, to s
 
 ### Introduction to Git and GitHub
 
-{{< include course-materials/gentle-git/outcomes.qmd >}}
+{{< include course-materials/gentlegit/outcomes.qmd >}}
 
 ### Using targets and geotargets
 
-{{< include course-materials/gentle-targets/outcomes.qmd >}}
+{{< include course-materials/gentletargets/outcomes.qmd >}}
 
 ### Introduction to R packages
 

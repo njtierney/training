@@ -1,9 +1,10 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
   render:
     - index.qmd
     - pricing.qmd
+    
 website:
   title: "Data Science Training Courses"
   site-url: https://training.njtierney.com

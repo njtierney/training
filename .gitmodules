@@ -1,0 +1,24 @@
+[submodule "course-materials/gentlegit"]
+	path = course-materials/gentlegit
+	url = https://github.com/njtierney/gentlegit
+[submodule "course-materials/fun2debug"]
+	path = course-materials/fun2debug
+	url = https://github.com/njtierney/fun2debug
+[submodule "course-materials/gentletargets"]
+	path = course-materials/gentletargets
+	url = https://github.com/njtierney/gentletargets
+[submodule "course-materials/rbestpractices"]
+	path = course-materials/rbestpractices
+	url = https://github.com/njtierney/rbestpractices
+[submodule "course-materials/intro2rpkgs"]
+	path = course-materials/intro2rpkgs
+	url = https://github.com/njtierney/intro2rpkgs
+[submodule "course-materials/qmd4sci"]
+	path = course-materials/qmd4sci
+	url = https://github.com/njtierney/qmd4sci
+[submodule "course-slides/intro2rpkgs-slides"]
+	path = course-slides/intro2rpkgs-slides
+	url = https://github.com/njtierney/intro2rpkgs-slides
+[submodule "course-materials/bettervis"]
+	path = course-materials/bettervis
+	url = https://github.com/njtierney/bettervis
