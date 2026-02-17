@@ -1,0 +1,118 @@
+---
+title: "Data Science Training"
+author: 
+  - name: Nicholas Tierney
+    orcid: 0000-0003-1460-8722
+date: today
+date-format: iso
+format:
+  html:
+    embed-resources: true
+    toc: true
+    keep-md: true
+  hikmah-pdf:
+    geometry: 
+      - left=1.25in
+      - right=1.25in
+editor:
+    markdown: 
+      wrap: sentence
+      canonical: true
+---
+
+I provide hands-on courses in R, reproducible workflows, and data visualisation for professionals in government, industry, and research. My mission is to empower people with skills in data science and critical reasoning, so that they can do more.
+
+Each course has approximately 6 hours of course content delivered as an interactive practical lecture. There are three "office hour" (60 minute) sessions packaged into each course, which provide an opportunity to ask further questions about the course based on your experience using the materials. These are comprised of one during the course, and two in follow up, after the course is complete.
+
+These follow-up office hours provide structured opportunities to practice skills, review concepts, and get help with applying what they have learnt in their own work. 
+
+The courses I currently offer are:
+
+- R Best Practices
+- Introduction to Quarto (aka "Quarto for Scientists")
+- Making Better Graphics
+- Introduction to Functions and Debugging
+- Introduction to Git and GitHub
+- Using targets and geotargets
+- Introduction to R package development
+
+Each course will be delivered over several hands-on, practical sessions, which will be spaced out over 1-2 weeks. The learners will have reading and exercises to complete prior to each lesson. As an example, the quarto for scientists course could be delivered like so:
+
+- Week 1:
+    - Getting started and setup
+    - Rendering and outputs
+    - Figures and tables
+    - Debugging (how to get unstuck)
+    - End of week 1 office hour and review
+- Week 2:
+    - Equations, bibliography, reference systems
+    - Advanced formats and Open discussion
+    - Submit example reports/documents for feedback
+- Week 3:
+    - Follow up session with Nick
+- Week 4:
+    - Follow up session with Nick
+
+In order to be most flexible, these sessions will be recorded so participants can watch the material again if they so chose. 
+
+Course numbers are limited and capped at 6 people for optimal learning.
+
+**For current pricing and availability**, see the [pricing page](pricing.qmd) or contact me at `info@njtierney.com`.
+
+## Learning materials and philosophy on teaching
+
+Each course will have a free online component, and a private component that only those taking the course can access. Each course will also have one scholarship space available for participants who otherwise could not afford to attend.
+
+### Free, forever
+
+Each course has an online book with reading and learning material. For examples of this, see https://qmd4sci.njtierney.com/ and https://intro2rpkgs.njtierney.com/. These materials will always be free, and serve as a resource for learners, and also to share this knowledge with the wider community. 
+
+### Learner only content
+
+There will also be content that is only for those taking the course. This includes the online practical sessions, as well as other concept videos introducing key concepts.
+
+
+### Philosophy on teaching
+
+I believe the value in courses comes from the time you put aside to learn, and the time with the instructor. I would like for people to be able to learn from these materials for free, if they so desire. The free resources accompanying each course will then be publicly available as a reference source. I believe this is a sustainable model as it provides something of value to the community, and also serves to advertise the courses.
+
+## Course learning outcomes
+
+Here is a summary of each of the learning outcomes for each of the courses, to see more detail on the courses, click the links to the course website.
+
+### R Best Practices
+
+{{< include course-materials/r-best-practices/outcomes.qmd >}}
+
+### Introduction to Quarto
+
+{{< include course-materials/qmd4sci/outcomes.qmd >}}
+
+### Making Better Graphics
+
+{{< include course-materials/better-vis/outcomes.qmd >}}
+
+### Introduction to Functions and Debugging
+
+{{< include course-materials/fun2debug/outcomes.qmd >}}
+
+### Introduction to Git and GitHub
+
+{{< include course-materials/gentle-git/outcomes.qmd >}}
+
+### Using targets and geotargets
+
+{{< include course-materials/gentle-targets/outcomes.qmd >}}
+
+### Introduction to R packages
+
+{{< include course-materials/intro2rpkgs/outcomes.qmd >}}
+
+## About the presenter:
+
+Dr. Nicholas (Nick) Tierney is a [Research Software Engineer](https://researchsoftware.org/), and freelance consultant with a PhD in Statistics who specialises in data analytics, R package development, and teaching. He wrote his first R package in 2015, [neato](https://github.com/njtierney/neato), after being inspired by Dr. Hilary Parker's blog post ["writing an R package from scratch"](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/). 
+
+His academic work has produced several widely-used packages (see [his github](http://github.com/njtierney)). During his research fellowship at Monash University with [Professor Dianne Cook](https://www.dicook.org/),  he developed tools for exploratory data analysis including [visdat](https://docs.ropensci.org/visdat/), [naniar](https://naniar.njtierney.com/), and [brolgar](https://brolgar.njtierney.com/) . He then went on to work with [Professor Nick Golding](https://www.thekids.org.au/contact-us/our-people/g/nick-golding/) at [The Kids Research Institute Australia](https://www.thekids.org.au/), working as a research software engineer to translate research methods into R packages. Specifically, [conmat](http://github.com/idem-lab/conmat) a tool used in pandemic modelling, and he maintained Nick Golding's [greta](https://greta-stats.org/)  R package for statistical modelling using Google's [tensorflow](https://www.tensorflow.org/).
+
+Beyond coding, Nick actively writes about R related projects at his blog, ["credibly curious"](https://www.njtierney.com/). When not coding, Nick enjoys outdoor adventures and hiked the entire Pacific Crest Trail in 2023, documenting his journey at [njt.micro.blog](https://njt.micro.blog/).
+

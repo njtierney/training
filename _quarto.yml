@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - pricing.qmd
+website:
+  title: "Data Science Training Courses"
+  site-url: https://training.njtierney.com
+  navbar:
+    left:
+      - text: "Course Catalog"
+        href: index.qmd
+      - text: "About"
+        href: index.qmd#about-the-presenter
+      - text: "Pricing"
+        href: pricing.qmd
+    right:
+      - icon: github
+        href: https://github.com/njtierney
+  page-footer:
+    left: "© 2026 Nicholas Tierney"
+    right: 
+      - text: "Contact"
+        href: mailto:info@njtierney.com
+
+from: markdown+autolink_bare_uris 
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-copy: true
+    link-external-newwindow: true

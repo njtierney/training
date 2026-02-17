@@ -1,0 +1,44 @@
+---
+title: "Pricing & Registration"
+date: today
+date-format: "MMMM YYYY"
+format:
+  html:
+    toc: false
+---
+
+## Current Pricing
+
+**Early bird pricing** available for courses running through mid-2026:
+
+- **Most courses**: $450 AUD
+  - Includes 6 hours of practical instruction
+  - Plus 3×60 minute office hour sessions (1 during course, 2 follow-up)
+  - Limited to 6 participants per course
+
+- **Targets & geotargets**: $900 AUD
+  - Includes 12 hours of practical instruction
+  - Plus 3×60 minute office hour sessions
+  - Limited to 6 participants per course
+
+All courses include:
+
+- Recorded sessions for flexible review
+- Free online learning materials (yours to keep forever)
+- Private learner-only content and exercises
+- One scholarship space per course available
+
+**Note**: Pricing will increase as courses become established. Lock in current rates by registering early.
+
+## Registration
+
+To register or discuss which courses would be best for your team:
+
+- **Email**: info@njtierney.com
+- **Website**: [training.njtierney.com](https://training.njtierney.com)
+
+Course schedules and availability updated regularly.
+
+---
+
+[← Back to course catalog](index.qmd)
