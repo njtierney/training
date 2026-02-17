@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "pricing.html",
+    "href": "pricing.html",
+    "title": "Pricing & Registration",
+    "section": "",
+    "text": "Early bird pricing available for courses running through mid-2026:\n\nMost courses: $450 AUD\n\nIncludes 6 hours of practical instruction\nPlus 3×60 minute office hour sessions (1 during course, 2 follow-up)\nLimited to 6 participants per course\n\nTargets & geotargets: $900 AUD\n\nIncludes 12 hours of practical instruction\nPlus 3×60 minute office hour sessions\nLimited to 6 participants per course\n\n\nAll courses include:\n\nRecorded sessions for flexible review\nFree online learning materials (yours to keep forever)\nPrivate learner-only content and exercises\nOne scholarship space per course available\n\nNote: Pricing will increase as courses become established. Lock in current rates by registering early."
+  },
+  {
+    "objectID": "pricing.html#current-pricing",
+    "href": "pricing.html#current-pricing",
+    "title": "Pricing & Registration",
+    "section": "",
+    "text": "Early bird pricing available for courses running through mid-2026:\n\nMost courses: $450 AUD\n\nIncludes 6 hours of practical instruction\nPlus 3×60 minute office hour sessions (1 during course, 2 follow-up)\nLimited to 6 participants per course\n\nTargets & geotargets: $900 AUD\n\nIncludes 12 hours of practical instruction\nPlus 3×60 minute office hour sessions\nLimited to 6 participants per course\n\n\nAll courses include:\n\nRecorded sessions for flexible review\nFree online learning materials (yours to keep forever)\nPrivate learner-only content and exercises\nOne scholarship space per course available\n\nNote: Pricing will increase as courses become established. Lock in current rates by registering early."
+  },
+  {
+    "objectID": "pricing.html#registration",
+    "href": "pricing.html#registration",
+    "title": "Pricing & Registration",
+    "section": "Registration",
+    "text": "Registration\nTo register or discuss which courses would be best for your team:\n\nEmail: info@njtierney.com\nWebsite: training.njtierney.com\n\nCourse schedules and availability updated regularly.\n\n← Back to course catalog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Science Training",
+    "section": "",
+    "text": "I provide hands-on courses in R, reproducible workflows, and data visualisation for professionals in government, industry, and research. My mission is to empower people with skills in data science and critical reasoning, so that they can do more.\nEach course has approximately 6 hours of course content delivered as an interactive practical lecture. There are three “office hour” (60 minute) sessions packaged into each course, which provide an opportunity to ask further questions about the course based on your experience using the materials. These are comprised of one during the course, and two in follow up, after the course is complete.\nThese follow-up office hours provide structured opportunities to practice skills, review concepts, and get help with applying what they have learnt in their own work.\nThe courses I currently offer are:\nEach course will be delivered over several hands-on, practical sessions, which will be spaced out over 1-2 weeks. The learners will have reading and exercises to complete prior to each lesson. As an example, the quarto for scientists course could be delivered like so:\nIn order to be most flexible, these sessions will be recorded so participants can watch the material again if they so chose.\nCourse numbers are limited and capped at 6 people for optimal learning.\nFor current pricing and availability, see the pricing page or contact me at info@njtierney.com."
+  },
+  {
+    "objectID": "index.html#learning-materials-and-philosophy-on-teaching",
+    "href": "index.html#learning-materials-and-philosophy-on-teaching",
+    "title": "Data Science Training",
+    "section": "Learning materials and philosophy on teaching",
+    "text": "Learning materials and philosophy on teaching\nEach course will have a free online component, and a private component that only those taking the course can access. Each course will also have one scholarship space available for participants who otherwise could not afford to attend.\n\nFree, forever\nEach course has an online book with reading and learning material. For examples of this, see https://qmd4sci.njtierney.com/ and https://intro2rpkgs.njtierney.com/. These materials will always be free, and serve as a resource for learners, and also to share this knowledge with the wider community.\n\n\nLearner only content\nThere will also be content that is only for those taking the course. This includes the online practical sessions, as well as other concept videos introducing key concepts.\n\n\nPhilosophy on teaching\nI believe the value in courses comes from the time you put aside to learn, and the time with the instructor. I would like for people to be able to learn from these materials for free, if they so desire. The free resources accompanying each course will then be publicly available as a reference source. I believe this is a sustainable model as it provides something of value to the community, and also serves to advertise the courses."
+  },
+  {
+    "objectID": "index.html#course-learning-outcomes",
+    "href": "index.html#course-learning-outcomes",
+    "title": "Data Science Training",
+    "section": "Course learning outcomes",
+    "text": "Course learning outcomes\nHere is a summary of each of the learning outcomes for each of the courses, to see more detail on the courses, click the links to the course website.\n\nR Best Practices"
+  },
+  {
+    "objectID": "index.html#prerequisites",
+    "href": "index.html#prerequisites",
+    "title": "Data Science Training",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nBasic R programming experience\nFamiliarity with writing R scripts\nExperience working on data analysis projects"
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "Data Science Training",
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\n\nHow to name things effectively\nUsing a style guide\nHow to refactor your code\nHow to review your code and others’\nHow to lay out a project so others know how to run your code\nHow to make a reproducible example (reprex)"
+  },
+  {
+    "objectID": "index.html#course-website",
+    "href": "index.html#course-website",
+    "title": "Data Science Training",
+    "section": "Course website",
+    "text": "Course website\nhttps://r-best-practices.njtierney.com\n\nIntroduction to Quarto"
+  },
+  {
+    "objectID": "index.html#prerequisites-1",
+    "href": "index.html#prerequisites-1",
+    "title": "Data Science Training",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nBasic familiarity with R or Python\nExperience writing scripts or data analysis code\nNo prior experience with Quarto or R Markdown required"
+  },
+  {
+    "objectID": "index.html#learning-outcomes-1",
+    "href": "index.html#learning-outcomes-1",
+    "title": "Data Science Training",
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\n\nWrite your own Quarto document from scratch\nBest practices for project workflow with Quarto\nRendering Quarto to HTML, PDF, and Word\nManaging dynamic referencing and creating captions for figures and tables\nManaging bibliographies, reference systems\nHandling common errors in Quarto\nUsing Quarto to render slides, websites, and books\n\nThis course will also end with an (optional) capstone assessment, where you submit a document you created with Quarto to Nick, and he will review the writing, code, and project with you."
+  },
+  {
+    "objectID": "index.html#course-website-1",
+    "href": "index.html#course-website-1",
+    "title": "Data Science Training",
+    "section": "Course website",
+    "text": "Course website\nhttps://qmd4sci.njtierney.com\n\nMaking Better Graphics"
+  },
+  {
+    "objectID": "index.html#prerequisites-2",
+    "href": "index.html#prerequisites-2",
+    "title": "Data Science Training",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nBasic R programming experience\nNo familiarity with ggplot2 required\nExperience working with data"
+  },
+  {
+    "objectID": "index.html#learning-outcomes-2",
+    "href": "index.html#learning-outcomes-2",
+    "title": "Data Science Training",
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\n\nHow to think about creating good plots\nGood vs bad charts\n\nData-ink ratio\n\nClear message communication\n\nHierarchy of plot design (concepts of proximity)\nFundamentals of ggplot2:\n\nUnderstanding the grammar of graphics\nWorking with different geoms and aesthetics\nCommon pitfalls and how to avoid them\nPolishing plots for publication\nBrief introduction to useful common extensions (e.g., patchwork)"
+  },
+  {
+    "objectID": "index.html#learning-outcomes-3",
+    "href": "index.html#learning-outcomes-3",
+    "title": "Data Science Training",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this course, participants will be able to:\n\nUnderstand the grammar of graphics and how ggplot2 implements it\nMap variables to aesthetics (x, y, colour, fill, shape, size) appropriately\nChoose appropriate geometries for different data types (points, lines, bars, histograms)\nUse faceting strategically to create small multiples with facet_wrap() and facet_grid()\nApply the proximity principle when designing multi-variable plots\nRecognise and create tidy data suitable for ggplot2\nReshape data using pivot_longer() and pivot_wider()\nCreate effective bar plots with proper sorting and positioning\nPolish plots with labels, themes, colours, and legends\nHandle overplotting using jitter, transparency, and summaries\nSave publication-quality figures with ggsave()"
+  },
+  {
+    "objectID": "index.html#course-website-2",
+    "href": "index.html#course-website-2",
+    "title": "Data Science Training",
+    "section": "Course website",
+    "text": "Course website\nhttps://better-vis.njtierney.com\n\nIntroduction to Functions and Debugging"
+  },
+  {
+    "objectID": "index.html#prerequisites-4",
+    "href": "index.html#prerequisites-4",
+    "title": "Data Science Training",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nNo prior experience with Git or version control required\nSome experience with R, Python, or other programming language"
+  },
+  {
+    "objectID": "index.html#learning-outcomes-5",
+    "href": "index.html#learning-outcomes-5",
+    "title": "Data Science Training",
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\nBy the end of the course you should be able to:\n\nSet up Git on a project\nLink your local git project with an online project on GitHub\nUnderstand how to use issues to track ideas or problems\nUse branches to manage features or changes\nBasic collaboration workflows (pull requests, merging, merge conflicts)\nWork on new ideas and code, without the cocnerns of breaking working code\nCollaborate with others without stepping on each other’s toes\nKnow how to resolve basic git issues\nIdentify when and where bugs are introduced"
+  },
+  {
+    "objectID": "index.html#course-website-4",
+    "href": "index.html#course-website-4",
+    "title": "Data Science Training",
+    "section": "Course website",
+    "text": "Course website\nhttps://gentle-git.njtierney.com\n\nUsing targets and geotargets"
+  },
+  {
+    "objectID": "index.html#prerequisites-6",
+    "href": "index.html#prerequisites-6",
+    "title": "Data Science Training",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nComfortable with some R fundamentals (data types, functions, reading data)\nExperience writing basic R scripts\nNo prior experience with package development required"
+  },
+  {
+    "objectID": "index.html#learning-outcomes-7",
+    "href": "index.html#learning-outcomes-7",
+    "title": "Data Science Training",
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\nBy the end of this course, you will be able to:\n\nCreate the basic structure of an R package\nManage dependencies with usethis and devtools\nCreate documentation with roxygen2\nWrite and run unit tests with testthat to verify package functionality\nUse Git and GitHub to put your R package online\nUnderstand next steps for advanced package development, including:\n\nAutomatically run tests with continuous integration via GitHub Actions\nMake your R package easily installable with the R Universe\nCreate professional package websites using pkgdown"
+  },
+  {
+    "objectID": "index.html#about-the-presenter",
+    "href": "index.html#about-the-presenter",
+    "title": "Data Science Training",
+    "section": "About the presenter:",
+    "text": "About the presenter:\nDr. Nicholas (Nick) Tierney is a Research Software Engineer, and freelance consultant with a PhD in Statistics who specialises in data analytics, R package development, and teaching. He wrote his first R package in 2015, neato, after being inspired by Dr. Hilary Parker’s blog post “writing an R package from scratch”.\nHis academic work has produced several widely-used packages (see his github). During his research fellowship at Monash University with Professor Dianne Cook, he developed tools for exploratory data analysis including visdat, naniar, and brolgar . He then went on to work with Professor Nick Golding at The Kids Research Institute Australia, working as a research software engineer to translate research methods into R packages. Specifically, conmat a tool used in pandemic modelling, and he maintained Nick Golding’s greta R package for statistical modelling using Google’s tensorflow.\nBeyond coding, Nick actively writes about R related projects at his blog, “credibly curious”. When not coding, Nick enjoys outdoor adventures and hiked the entire Pacific Crest Trail in 2023, documenting his journey at njt.micro.blog."
+  }
+]
