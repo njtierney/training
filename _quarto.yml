@@ -13,7 +13,7 @@ website:
       - text: "Course Catalog"
         href: index.qmd
       - text: "About"
-        href: index.qmd#about-the-presenter
+        href: index.qmd#about-the-instructor
       - text: "Pricing"
         href: pricing.qmd
     right:

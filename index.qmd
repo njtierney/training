@@ -19,7 +19,7 @@ editor:
       canonical: true
 ---
 
-I provide hands-on courses in R, reproducible workflows, and data visualisation for professionals in government, industry, and research. My mission is to empower people with skills in data science and critical reasoning, so that they can do more.
+I provide practical and pragmatic courses in R, reproducible workflows, and data visualisation for professionals in government, industry, and research. My mission is to empower people with skills in data science and critical reasoning, so that they can do more.
 
 Each course has approximately 6 hours of course content delivered as an interactive practical lecture. There are three "office hour" (60 minute) sessions packaged into each course, which provide an opportunity to ask further questions about the course based on your experience using the materials. These are comprised of one during the course, and two in follow up, after the course is complete.
 
@@ -27,13 +27,13 @@ These follow-up office hours provide structured opportunities to practice skills
 
 The courses I currently offer are:
 
-- R Best Practices
-- Introduction to Quarto (aka "Quarto for Scientists")
-- Making Better Graphics
-- Introduction to Functions and Debugging
-- Introduction to Git and GitHub
-- Using targets and geotargets
-- Introduction to R package development
+- [R Best Practices](https://r-best-practices.njtierney.com/)
+- [Introduction to Quarto (aka "Quarto for Scientists")](https://qmd4sci.njtierney.com/)
+- [Making Better Graphics](https://better-vis.njtierney.com/)
+- [Introduction to Functions and Debugging](https://fun2debug.njtierney.com/)
+- [Introduction to Git and GitHub](https://gentle-git.njtierney.com/)
+- [Using targets and geotargets](https://gentle-targets.njtierney.com/)
+- [Introduction to R package development](https://intro2rpkgs.njtierney.com/)
 
 Each course will be delivered over several hands-on, practical sessions, which will be spaced out over 1-2 weeks. The learners will have reading and exercises to complete prior to each lesson. As an example, the quarto for scientists course could be delivered like so:
 
