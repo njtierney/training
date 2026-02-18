@@ -62,16 +62,16 @@ Course numbers are limited and capped at 6 people for optimal learning.
 
 Each course will have a free online component, and a private component that only those taking the course can access. Each course will also have one scholarship space available for participants who otherwise could not afford to attend.
 
-## Free, forever
+**Free, forever**
 
 Each course has an online book with reading and learning material. For examples of this, see https://qmd4sci.njtierney.com/ and https://intro2rpkgs.njtierney.com/. These materials will always be free, and serve as a resource for learners, and also to share this knowledge with the wider community. 
 
-## Learner only content
+**Learner only content**
 
 There will also be content that is only for those taking the course. This includes the online practical sessions, as well as other concept videos introducing key concepts.
 
 
-## Philosophy on teaching
+**Philosophy on teaching**
 
 I believe the value in courses comes from the time you put aside to learn, and the time with the instructor. I would like for people to be able to learn from these materials for free, if they so desire. The free resources accompanying each course will then be publicly available as a reference source. I believe this is a sustainable model as it provides something of value to the community, and also serves to advertise the courses.
 
