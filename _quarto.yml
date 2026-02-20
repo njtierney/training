@@ -6,24 +6,24 @@ project:
     - pricing.qmd
     
 website:
-  title: "Data Science Training Courses"
+  title: "Data Science Training"
   site-url: https://training.njtierney.com
   navbar:
     left:
       - text: "Course Catalog"
         href: index.qmd
-      - text: "About"
-        href: index.qmd#about-the-instructor
       - text: "Pricing"
         href: pricing.qmd
     right:
       - icon: github
         href: https://github.com/njtierney
   page-footer:
-    left: "© 2026 Nicholas Tierney"
+    left: "© 2026 [Nicholas Tierney](https://www.njtierney.com)"
     right: 
-      - text: "Contact"
+      - text: "Contact: email"
         href: mailto:info@njtierney.com
+      - text: "License: CC BY-NC 4.0"
+        href: https://creativecommons.org/licenses/by-nc/4.0/
 
 from: markdown+autolink_bare_uris 
 

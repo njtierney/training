@@ -19,48 +19,56 @@ editor:
       canonical: true
 ---
 
-I provide practical and pragmatic courses in R, reproducible workflows, and data visualisation for professionals in government, industry, and research. My mission is to empower people with skills in data science and critical reasoning, so that they can do more.
+I provide practical and pragmatic courses in R, reproducible workflows, and data visualisation for professionals in government, industry, and research. My mission is to empower people with skills in data science and critical reasoning, so that they can do more. 
 
-Each course has approximately 6 hours of course content delivered as an interactive practical lecture. There are three "office hour" (60 minute) sessions packaged into each course, which provide an opportunity to ask further questions about the course based on your experience using the materials. These are comprised of one during the course, and two in follow up, after the course is complete.
+## Course Details
+
+Each course will be small with only up to six people attending. This means better value and better learning for those taking the course. A core feature of these courses is they are delivered live online, or in person. This means that you get the benefits of the **social aspects of learning**: peers to discuss content with and to learn from, together.
+
+Courses will be delivered as interactive practical lectures, with "office hour" (60 minute) sessions packaged into courses. These provide an opportunity to ask further questions about the course based on your experience using the materials. These office hours occur during, and after completion of course content.
 
 These follow-up office hours provide structured opportunities to practice skills, review concepts, and get help with applying what they have learnt in their own work. 
 
-The courses I currently offer are:
+## Course location and timings
 
-- [R Best Practices](https://r-best-practices.njtierney.com/)
-- [Introduction to Quarto (aka "Quarto for Scientists")](https://qmd4sci.njtierney.com/)
-- [Making Better Graphics](https://better-vis.njtierney.com/)
-- [Introduction to Functions and Debugging](https://fun2debug.njtierney.com/)
-- [Introduction to Git and GitHub](https://gentle-git.njtierney.com/)
-- [Using targets and geotargets](https://gentle-targets.njtierney.com/)
-- [Introduction to R package development](https://intro2rpkgs.njtierney.com/)
+I am based in [nipaluna, lutruwita (Hobart, Tasmania, Australia)](https://en.wikipedia.org/wiki/Hobart). Courses will be delivered online, although condensed in-person sessions can be arranged in Australia or internationally. Courses are delivered at times to primarily suit those in Australia, although depending on our evening or morning, this may suit you if you are elsewhere in the world. See time differences between [Auckland, Hobart, Brisbane, Perth, New Delhi, London, New York, and Los Angeles](https://www.timeanddate.com/worldclock/meetingtime.html?iso=20260526&p1=22&p2=396&p3=47&p4=196&p5=176&p6=136&p7=179&p8=137).
+
+## Courses on offer
+
+- [R best practices](https://r-best-practices.njtierney.com/)
+- [Prepare reproducible and compelling documents with Quarto](https://qmd4sci.njtierney.com/)
+- [How to create better graphics using R](https://better-vis.njtierney.com/)
+- [Level up your R programming by learning functions and debugging](https://fun2debug.njtierney.com/)
+- [Efficiently track changes and collaborate with Git and GitHub](https://gentle-git.njtierney.com/)
+- [Save time and ensure reproducibility using targets and geotargets](https://gentle-targets.njtierney.com/)
+- [Learn the introductory fundamentals of R package development](https://intro2rpkgs.njtierney.com/)
 
 Each course will be delivered over several hands-on, practical sessions, which will be spaced out over 1-2 weeks. The learners will have reading and exercises to complete prior to each lesson. As an example, the quarto for scientists course could be delivered like so:
 
 - Week 1:
-    - Getting started and setup
-    - Rendering and outputs
-    - Figures and tables
-    - Debugging (how to get unstuck)
-    - End of week 1 office hour and review
+    - Getting started and setup (1-2h)
+    - Rendering and outputs (1h)
+    - Figures and tables (1h)
+    - Debugging (how to get unstuck) (1h)
+    - End of week 1 office hour and review (1h)
 - Week 2:
-    - Equations, bibliography, reference systems
-    - Advanced formats and Open discussion
-    - Submit example reports/documents for feedback
+    - Equations, bibliography, reference systems (1h)
+    - Advanced formats and Open discussion (1h)
+    - Submit example reports/documents for feedback (1h)
 - Week 3:
-    - Follow up session with Nick
+    - Follow up session with Nick (1h)
 - Week 4:
-    - Follow up session with Nick
+    - Follow up session with Nick (1h)
 
-In order to be most flexible, these sessions will be recorded so participants can watch the material again if they so chose. 
-
-Course numbers are limited and capped at 6 people for optimal learning.
+In order to be most flexible, these sessions will be recorded so participants can watch the material again if they so choose. 
 
 **For current pricing and availability**, see the [pricing page](pricing.qmd) or contact me at `info@njtierney.com`.
 
 # Learning materials and philosophy on teaching
 
-Each course will have a free online component, and a private component that only those taking the course can access. Each course will also have one scholarship space available for participants who otherwise could not afford to attend.
+Each course will have a free online component, and a private component that only those taking the course can access. 
+
+Each course will also have one scholarship space available for participants who otherwise could not afford to attend. For more details on this, see [pricing](pricing.qmd)
 
 **Free, forever**
 
@@ -69,7 +77,6 @@ Each course has an online book with reading and learning material. For examples 
 **Learner only content**
 
 There will also be content that is only for those taking the course. This includes the online practical sessions, as well as other concept videos introducing key concepts.
-
 
 **Philosophy on teaching**
 
@@ -111,7 +118,7 @@ Here is a summary of each of the learning outcomes for each of the courses, to s
 
 Dr. Nicholas (Nick) Tierney is a [Research Software Engineer](https://researchsoftware.org/), and freelance consultant with a PhD in Statistics who specialises in data analytics, R package development, and teaching. He wrote his first R package in 2015, [neato](https://github.com/njtierney/neato), after being inspired by Dr. Hilary Parker's blog post ["writing an R package from scratch"](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/). 
 
-His academic work has produced several widely-used packages (see [his github](http://github.com/njtierney)). During his research fellowship at Monash University with [Professor Dianne Cook](https://www.dicook.org/),  he developed tools for exploratory data analysis including [visdat](https://docs.ropensci.org/visdat/), [naniar](https://naniar.njtierney.com/), and [brolgar](https://brolgar.njtierney.com/) . He then went on to work with [Professor Nick Golding](https://www.thekids.org.au/contact-us/our-people/g/nick-golding/) at [The Kids Research Institute Australia](https://www.thekids.org.au/), working as a research software engineer to translate research methods into R packages. Specifically, [conmat](http://github.com/idem-lab/conmat) a tool used in pandemic modelling, and he maintained Nick Golding's [greta](https://greta-stats.org/)  R package for statistical modelling using Google's [tensorflow](https://www.tensorflow.org/).
+His academic work has produced several widely-used packages (see [his software page](http://github.com/njtierney)). During his research fellowship at Monash University with [Professor Dianne Cook](https://www.dicook.org/), he developed tools for exploratory data analysis including [visdat](https://docs.ropensci.org/visdat/), [naniar](https://naniar.njtierney.com/), and [brolgar](https://brolgar.njtierney.com/) . He then went on to work with [Professor Nick Golding](https://www.thekids.org.au/contact-us/our-people/g/nick-golding/) at [The Kids Research Institute Australia](https://www.thekids.org.au/), working as a research software engineer to translate research methods into R packages. Specifically, [conmat](http://github.com/idem-lab/conmat), a tool used in pandemic modelling, and he maintained Nick Golding's [greta](https://greta-stats.org/)  R package for statistical modelling using Google's [tensorflow](https://www.tensorflow.org/).
 
 Beyond coding, Nick actively writes about R related projects at his blog, ["credibly curious"](https://www.njtierney.com/). When not coding, Nick enjoys outdoor adventures and hiked the entire Pacific Crest Trail in 2023, documenting his journey at [njt.micro.blog](https://njt.micro.blog/).
 
