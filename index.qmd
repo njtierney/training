@@ -27,10 +27,10 @@ I provide practical and pragmatic courses in R, reproducible workflows, and data
 * The social aspects of learning: Courses are delivered **live** online or in-person. Learn together with your peers and discuss content together.
 * Delivered as interactive practical lessons: I teach, you practice, we discuss.
 * Spaced Learning: Courses are delivered as several 1-2 hour lessons over 1-2 weeks, with reading and exercises to complete prior to lessons.
-* Ongoing support through office hours. Courses include multiple 60-minute office hour sessions during the 1–2 weeks of lessons and in the weeks that follow. These provide structured time to apply what you've learned to your own work, clarify misunderstandings, and get feedback to deepen your understanding.
+* Ongoing support through office hours. Courses include at least three 60-minute office hour sessions during the 1–2 weeks of lessons and in the weeks that follow. These provide structured time to apply what you've learned to your own work, clarify misunderstandings, and get feedback to deepen your understanding.
 * Public online teaching materials. Each course has an online book with reading and learning material. For examples of this, see https://qmd4sci.njtierney.com/ and https://intro2rpkgs.njtierney.com/. These materials will always be free, and serve as a resource for learners, and also to share this knowledge with the wider community. 
 * Exclusive content. Participants taking the courses will also gain access to exclusive videos and other materials going into more depth on content.
-* Learning scholarships. Every course has one scholarship place for those who otherwise could not afford to attend. For more details on this, see [pricing](pricing.qmd)
+* Learning scholarships. Every course has one heavily discounted scholarship place (just $6 AUD) for those who otherwise could not afford to attend. For more details on this, see [pricing](pricing.qmd)
 
 ## Teaching philosophy
 
