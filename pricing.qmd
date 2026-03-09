@@ -7,46 +7,48 @@ format:
     toc: false
 ---
 
-+------------------------------------------------------------------------------------------------------------+-------------+----------------------------------------------------------------------------------------------------------+-----------------+
-| Course                                                                                                     | Price       | Details                                                                                                  | \# participants |
-+============================================================================================================+=============+==========================================================================================================+=================+
-| [R best practices](https://r-best-practices.njtierney.com/)                                                | \$450       | 6 hours of practical instruction, plus 3x60 minute officer hour sessions (1 during course, 2 follow up)  | 6               |
-|                                                                                                            |             |                                                                                                          |                 |
-| [Prepare reproducible and compelling documents with Quarto](https://qmd4sci.njtierney.com/)                |             |                                                                                                          |                 |
-|                                                                                                            |             |                                                                                                          |                 |
-| [How to create better graphics using R](https://better-vis.njtierney.com/)                                 |             |                                                                                                          |                 |
-|                                                                                                            |             |                                                                                                          |                 |
-| [Level up your R programming by learning functions and debugging](https://fun2debug.njtierney.com/)        |             |                                                                                                          |                 |
-|                                                                                                            |             |                                                                                                          |                 |
-| [Efficiently track changes and collaborate with Git and GitHub](https://gentle-git.njtierney.com/)         |             |                                                                                                          |                 |
-|                                                                                                            |             |                                                                                                          |                 |
-| [Learn the introductory fundamentals of R package development](https://intro2rpkgs.njtierney.com/)         |             |                                                                                                          |                 |
-+------------------------------------------------------------------------------------------------------------+-------------+----------------------------------------------------------------------------------------------------------+-----------------+
-| [Save time and ensure reproducibility using targets and geotargets](https://gentle-targets.njtierney.com/) | \$900       | 12 hours of practical instruction, plus 6x60 minute officer hour sessions (2 during course, 4 follow up) | 6               |
-+------------------------------------------------------------------------------------------------------------+-------------+----------------------------------------------------------------------------------------------------------+-----------------+
++------------------------------------------------------------------------------------------------------------+----------+--------------------------------------------------------------+-----------------+
+| Course                                                                                                     | Price    | Details                                                      | \# participants |
++============================================================================================================+==========+==============================================================+=================+
+| [R best practices](https://r-best-practices.njtierney.com/)                                                | \$450    | -   6hr practical instruction                                | 6               |
+|                                                                                                            |          |                                                              |                 |
+| [Prepare reproducible and compelling documents with Quarto](https://qmd4sci.njtierney.com/)                |          | -   3x60 min office hour sessions (1 in-course; 2 follow-up) |                 |
+|                                                                                                            |          |                                                              |                 |
+| [How to create better graphics using R](https://better-vis.njtierney.com/)                                 |          |                                                              |                 |
+|                                                                                                            |          |                                                              |                 |
+| [Level up your R programming by learning functions and debugging](https://fun2debug.njtierney.com/)        |          |                                                              |                 |
+|                                                                                                            |          |                                                              |                 |
+| [Efficiently track changes and collaborate with Git and GitHub](https://gentle-git.njtierney.com/)         |          |                                                              |                 |
+|                                                                                                            |          |                                                              |                 |
+| [Learn the introductory fundamentals of R package development](https://intro2rpkgs.njtierney.com/)         |          |                                                              |                 |
++------------------------------------------------------------------------------------------------------------+----------+--------------------------------------------------------------+-----------------+
+| [Save time and ensure reproducibility using targets and geotargets](https://gentle-targets.njtierney.com/) | \$900    | -   12 hr practical instruction                              | 6               |
+|                                                                                                            |          |                                                              |                 |
+|                                                                                                            |          | -   6x60 min office hour sessions (2 in-course; 4 follow-up) |                 |
++------------------------------------------------------------------------------------------------------------+----------+--------------------------------------------------------------+-----------------+
 
 All courses include:
 
--   Recorded sessions for flexible review
--   Free online learning materials (yours to keep forever)
--   Private learner-only content and exercises
+-   Recorded sessions for flexible review.
+-   Free online learning materials (yours to keep forever).
+-   Private learner-only content and exercises.
 
-All courses will also feature one heavily discounted scholarship, priced at \$5 AUD, about the price of a coffee these days in Hobart. More details on applying for scholarships will be announced soon.
+All courses will also feature one heavily discounted scholarship, priced at \$6 AUD. More details on applying for scholarships will be announced soon.
 
 ## Pilot program
 
-These courses are currently in development, but I will be offering discounted "pilot" runs of each course. These will be starting from approximately May 2026, details to follow soon.
+As these courses are currently in development, I will be offering discounted "pilot" runs of each course. These will be starting from approximately May 2026, details to follow soon.
 
 ## Registration
 
 To register or discuss which courses would be best for your team:
 
-**Note**: Pricing will increase as courses become established. Lock in current rates by registering early.
-
 -   **Email**: info\@njtierney.com
 -   **Website**: [training.njtierney.com](https://training.njtierney.com)
 
 Course schedules and availability updated regularly.
+
+**Note** that pricing will increase as courses become established. Lock in current rates by registering early.
 
 ------------------------------------------------------------------------
 
