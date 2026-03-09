@@ -30,7 +30,7 @@ I provide practical and pragmatic courses in R, reproducible workflows, and data
 * Ongoing support through office hours. Courses include at least three 60-minute office hour sessions during the 1–2 weeks of lessons and in the weeks that follow. These provide structured time to apply what you've learned to your own work, clarify misunderstandings, and get feedback to deepen your understanding.
 * Public online teaching materials. Each course has an online book with reading and learning material. For examples of this, see https://qmd4sci.njtierney.com/ and https://intro2rpkgs.njtierney.com/. These materials will always be free, and serve as a resource for learners, and also to share this knowledge with the wider community. 
 * Exclusive content. Participants taking the courses will also gain access to exclusive videos and other materials going into more depth on content.
-* Learning scholarships. Every course has one heavily discounted scholarship place (just $6 AUD) for those who otherwise could not afford to attend. For more details on this, see [pricing](pricing.qmd)
+* Learning scholarships. Every course has one heavily discounted scholarship place (just $6 AUD) for those who otherwise could not afford to attend. For more details on this, see [pricing](pricing.qmd).
 
 ## Teaching philosophy
 
@@ -42,6 +42,8 @@ I believe the value in courses comes from the time **you put aside to learn**, a
 I am based in [nipaluna, lutruwita (Hobart, Tasmania, Australia)](https://en.wikipedia.org/wiki/Hobart). Courses will be delivered online, although condensed in-person sessions can be arranged in Australia or internationally. Courses are delivered at times to primarily suit those in Australia, although depending on our evening or morning, this may suit you if you are elsewhere in the world. See time differences between [Auckland, Hobart, Brisbane, Perth, New Delhi, London, New York, and Los Angeles](https://www.timeanddate.com/worldclock/meetingtime.html?iso=20260526&p1=22&p2=396&p3=47&p4=196&p5=176&p6=136&p7=179&p8=137).
 
 ## Courses on offer
+
+I currently offer the following courses:
 
 - [R best practices](https://r-best-practices.njtierney.com/)
 - [Prepare reproducible and compelling documents with Quarto](https://qmd4sci.njtierney.com/)
