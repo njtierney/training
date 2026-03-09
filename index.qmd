@@ -19,7 +19,7 @@ editor:
       canonical: true
 ---
 
-I provide practical and pragmatic courses in R, reproducible workflows, and data visualisation for professionals in government, industry, and research. My mission is to empower people with skills in data science and critical reasoning, so they can do more. 
+I provide practical and pragmatic courses in R, reproducible workflows, and data visualisation for professionals in government, industry, and research. My mission is to empower people with skills in data science, critical reasoning, and communication, so they can do more. 
 
 ## Course features
 
@@ -34,7 +34,7 @@ I provide practical and pragmatic courses in R, reproducible workflows, and data
 
 ## Teaching philosophy
 
-I believe the value in courses comes from the time you put aside to learn, and the time with the instructor. I would like for people to be able to learn from these materials for free, if they wish. The free resources accompanying each course will then be publicly available as a reference source. I believe this is a sustainable model as it provides something of value to the community, and also serves to advertise the courses.
+I believe the value in courses comes from the time **you put aside to learn**, and the time **with the instructor**. I would like for people to be able to learn from these materials for free, if they wish. So, I have ensured each course has forever free, publicly available resources. I believe this is a sustainable model as it provides something of value to the community, and also serves to advertise the courses.
 
 
 ## Course location and timings
@@ -78,31 +78,31 @@ In order to be most flexible, these sessions will be recorded so participants ca
 
 Here is a summary of each of the learning outcomes for each of the courses, to see more detail on the courses, click the links to the course website.
 
-# R Best Practices
+## R Best Practices
 
 {{< include course-materials/rbestpractices/outcomes.qmd >}}
 
-# Introduction to Quarto
+## Introduction to Quarto
 
 {{< include course-materials/qmd4sci/outcomes.qmd >}}
 
-# Making Better Graphics
+## Making Better Graphics
 
 {{< include course-materials/bettervis/outcomes.qmd >}}
 
-# Introduction to Functions and Debugging
+## Introduction to Functions and Debugging
 
 {{< include course-materials/fun2debug/outcomes.qmd >}}
 
-# Introduction to Git and GitHub
+## Introduction to Git and GitHub
 
 {{< include course-materials/gentlegit/outcomes.qmd >}}
 
-# Using targets and geotargets
+## Using targets and geotargets
 
 {{< include course-materials/gentletargets/outcomes.qmd >}}
 
-# Introduction to R packages
+## Introduction to R packages
 
 {{< include course-materials/intro2rpkgs/outcomes.qmd >}}
 
@@ -110,7 +110,7 @@ Here is a summary of each of the learning outcomes for each of the courses, to s
 
 Dr. Nicholas (Nick) Tierney is a [Research Software Engineer](https://researchsoftware.org/), and freelance consultant with a PhD in Statistics who specialises in data analytics, R package development, and teaching. He wrote his first R package in 2015, [neato](https://github.com/njtierney/neato), after being inspired by Dr. Hilary Parker's blog post ["writing an R package from scratch"](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/). 
 
-His academic work has produced several widely-used packages (see [his software page](http://github.com/njtierney)). During his research fellowship at Monash University with [Professor Dianne Cook](https://www.dicook.org/), he developed tools for exploratory data analysis including [visdat](https://docs.ropensci.org/visdat/), [naniar](https://naniar.njtierney.com/), and [brolgar](https://brolgar.njtierney.com/). He then went on to work with [Professor Nick Golding](https://www.thekids.org.au/contact-us/our-people/g/nick-golding/) at [The Kids Research Institute Australia](https://www.thekids.org.au/), working as a research software engineer to translate research methods into R packages such as [conmat](http://github.com/idem-lab/conmat), a tool used in pandemic modelling. He also maintained Nick Golding's [greta](https://greta-stats.org/) R package for statistical modelling using Google's [tensorflow](https://www.tensorflow.org/).
+His academic work has produced several widely-used packages (see [his software page](http://github.com/njtierney)). During his research fellowship at Monash University with [Professor Dianne Cook](https://www.dicook.org/), he developed tools for exploratory data analysis including [visdat](https://docs.ropensci.org/visdat/), [naniar](https://naniar.njtierney.com/), and [brolgar](https://brolgar.njtierney.com/). He then went on to work with [Professor Nick Golding](https://www.thekids.org.au/contact-us/our-people/g/nick-golding/) at [The Kids Research Institute Australia](https://www.thekids.org.au/), working as a research software engineer to translate research methods into R packages such as [conmat](http://github.com/idem-lab/conmat), a tool used in pandemic modelling. He also maintains Nick Golding's [greta](https://greta-stats.org/) R package for statistical modelling using Google's [tensorflow](https://www.tensorflow.org/).
 
-Beyond coding, Nick actively writes about R related projects at his blog, ["credibly curious"](https://www.njtierney.com/). When not coding, Nick enjoys outdoor adventures and hiked the entire Pacific Crest Trail in 2023, documenting his journey at [njt.micro.blog](https://njt.micro.blog/).
+Nick actively writes about R related projects at his blog, ["credibly curious"](https://www.njtierney.com/). When not coding, Nick enjoys outdoor adventures and hiked the entire Pacific Crest Trail in 2023, documenting his journey at [njt.micro.blog](https://njt.micro.blog/).
 
