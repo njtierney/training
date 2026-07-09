@@ -1,0 +1,223 @@
+---
+title: R Training Timetable
+format: 
+  pdf:
+    tbl-colwidths: [7,7,86]
+---
+
+- R Best Practices: August 3-12 (plus one office hour on August 18)
+- Making Better Graphics: August 17-26 (plus office hour on September 2)
+- Functions & Debugging: August 31-September 9 (plus office hour on September 16)
+- Introduction to Quarto: Sept 14-23 (plus office hour on Sept 30)
+- targets & geotargets: Sept 28 - October 21 (final office hour on October 21)
+
+## Week 1 — Aug 3
+
+| Day | Time | Sessions |
+|-----|------|----------|
+| Mon | 10-11 | 📘 **R Best Practices**: Project Organisation - common patterns, pitfalls, file paths, RStudio/Positron setup |
+| Mon | 11-12 | 📘 **R Best Practices**: Code Style and Readability — consistent names, spaces, indentation, {air} formatter, linters |
+| Tue | 10-11 | 📘 **R Best Practices**: Writing Readable Code — good vs bad variable names, de-chunking code, code review |
+| Wed | 10-11 | 💬 **R Best Practices**: Office hour 1 |
+
+## Week 2 — Aug 10
+
+| Day | Time | Sessions |
+|-----|------|----------|
+| Mon | 10-11 | 📘 **R Best Practices**: Writing Functions — anatomy of a function, good design, {fnmate}, using a debugger |
+| Mon | 11-12 | 📘 **R Best Practices**: Writing a Reprex / Getting Unstuck — {reprex}, sharing problems, practical debugging tips |
+| Tue | 10-11 | 📘 **R Best Practices**: Putting It All Together — code review on existing project, apply linting, styling, functions |
+| Wed | 10-11 | 💬 **R Best Practices**: Office hour 2 |
+
+## Week 3 — Aug 17
+
+| Day | Time | Sessions |
+|-----|------|----------|
+| Mon | 10-11 | 📘 **Better Graphics**: Introduction & Scatterplots — ggplot2 philosophy, anatomy, aesthetics (x, y, colour, shape, size) |
+| Mon | 11-12 | 📘 **Better Graphics**: Bar Plots & Histograms — geom_bar vs geom_col, fct_infreq, fill vs colour, position, binwidths |
+| Tue | 10-11 | 📘 **Better Graphics**: Faceting & Small Multiples — facet_wrap, facet_grid, proximity principle, ordering |
+| Wed | 10-11 | 💬 **R Best Practices**: Office Hour 3|
+| Wed | 11-12 | 💬 **Better Graphics**: Office Hour 1 |
+
+## Week 4 — Aug 24
+
+| Day | Time | Sessions |
+|-----|------|----------|
+| Mon | 10-11 | 📘 **Better Graphics**: Tidy Data & Line Graphs — why tidy data matters, pivot_longer/wider, geom_line, group |
+| Mon | 11-12 | 📘 **Better Graphics**: Polishing and Extensions — labs, colourblind palettes, themes, legends, patchwork, marquee, saving |
+| Tue | 10-11 | 📘 **Better Graphics**: Advanced Topics & Practice — overplotting, gghighlight, ggrepel, boxplots, gganimate, ggiraph, naniar |
+| Wed | 10-11 | 💬 **Better Graphics**: Office hour 2 |
+
+## Week 5 — Aug 31
+
+| Day | Time | Sessions |
+|-----|------|----------|
+| Mon | 10-11 | 📘 **Functions & Debugging**: Why Functions Matter — managing complexity, expressing ideas, beyond DRY, DRRY |
+| Mon | 11-12 | 📘 **Functions & Debugging**: Function Fundamentals & Design — anatomy, signatures, outside-in vs inside-out, naming |
+| Tue | 10-11 | 📘 **Functions & Debugging**: Writing Functions in Practice — imagining ideal interfaces, extracting from code, ladder of abstraction |
+| Wed | 10-11 | 💬 **Functions & Debugging**: Office hour 1|
+| Wed | 11-12 | 💬 **Better Graphics**: Office hour 3 |
+
+## Week 6 — Sep 7
+
+| Day | Time | Sessions |
+|-----|------|----------|
+| Mon | 10-11 | 📘 **Functions & Debugging**: Debugging Basics & Tools — reading errors, browser(), debug(), debugonce(), RStudio debugging |
+| Mon | 11-12 | 📘 **Functions & Debugging**: Cleaning Up a Data Analysis — script to functions, chunking code, practical debugging with browser() |
+| Tue | 10-11 | 📘 **Functions & Debugging**: Measuring, and improving function speed |
+| Tue | 11-12 | 📘 **Functions & Debugging**: Practice & Integration — work on your own code, apply approaches, code as writing |
+| Wed | 10-11 | 💬 **Functions & Debugging**: Office hour 2|
+
+## Week 7 — Sep 14
+
+| Day | Time | Sessions |
+|-----|------|----------|
+| Mon | 10-11 | 📘 **Quarto**: Introduction & Basic Documents — why Quarto, installation, first .qmd, YAML, rendering workflow |
+| Mon | 11-12 | 📘 **Quarto**: Multiple Output Formats — HTML/PDF/Word, format-specific YAML, keyboard shortcuts |
+| Tue | 10-11 | 📘 **Quarto**: Figures & Tables — fig-cap, fig-width/height, cross-referencing, kable, gt, flextable |
+| Wed | 10-11 | 💬 **Quarto**: Office hour 1|
+| Wed | 11-12 | 💬 **Functions & Debugging**: Office hour 3|
+
+## Week 8 — Sep 21
+
+| Day | Time | Sessions |
+|-----|------|----------|
+| Mon | 10-11 | 📘 **Quarto**: Mathematics & Cross-References — inline/display math, LaTeX, equation labels, full cross-ref system |
+| Mon | 11-12 | 📘 **Quarto**: Citations & Bibliographies — .bib files, citation syntax, CSL styles, Zotero, debugging |
+| Tue | 10-11 | 📘 **Quarto**: Advanced Topics & Personal Projects — revealjs, websites, books, journal templates, convert your docs |
+| Wed | 10-11 | 💬 **Quarto**: Office hour 2|
+
+\newpage
+
+## Week 9 — Sep 28
+
+| Day | Time | Sessions |
+|-----|------|----------|
+| Mon | 10-11 | 📘 **targets**: Why Pipelines? — where do I start, common problems, intro to {targets}, concepts |
+| Mon | 11-12 | 📘 **targets**: Starting with Functions — functions as unit of understanding, ideal properties, {fnmate} |
+| Tue | 10-11 | 📘 **targets**: Debugging Functions — browser(), debug(), debugonce(), options(recover) |
+| Wed | 10-11 | 💬 **targets**: Office hour 1|
+| Wed | 11-12 | 💬 **Quarto**: Office hour 3|
+
+## Week 10 — Oct 6 (labour day is Oct 5)
+
+| Day | Time | Sessions |
+|-----|------|----------|
+| Tue | 10-11 | 📘 **targets**: Getting Started with {targets} (Part 1) — {tflow} setup, _targets.R, folder structure, tar_assign() |
+| Tue | 11-12 | 📘 **targets**: Getting Started with {targets} (Part 2) — your first pipeline, modifying and rebuilding |
+| Wed | 10-11 | 💬 **targets**: Office hour 2|
+| Wed | 11-12 | 💬 **targets**: Office hour 3|
+
+## Week 11 — Oct 12
+
+| Day | Time | Sessions |
+|-----|------|----------|
+| Mon | 10-11 | 📘 **targets**: Deeper Workflow (Part 1) — tar_read(), tar_quarto(), keyboard shortcuts |
+| Mon | 11-12 | 📘 **targets**: Deeper Workflow (Part 2) — tar_workspaces() to debug issues, common pipeline problems |
+| Tue | 11-12 | 📘 **targets**: Advanced Targets — {crew} parallelisation, branching, HPC |
+| Tue | 10-11 | 📘 **targets**: Production Workflows — organising large projects, convert your own work into a pipeline |
+| Wed | 10-11 | 💬 **targets**: Office hour 4|
+| Wed | 11-12 | 💬 **targets**: Office hour 5|
+
+## Week 12 — Oct 19
+
+| Day | Time | Sessions |
+|-----|------|----------|
+| Mon | 10-11 | 📘 **targets**: Pipeline Review & Next Steps — feedback on your pipeline, resources, open Q&A |
+| Mon | 11-12 | 📘 **geotargets**: Introduction to Geospatial Data — spatial data challenges, {terra} and {sf} |
+| Tue | 10-11 | 📘 **geotargets**: Geospatial Pipelines with {geotargets} — tar_terra_rast(), tar_terra_vect(), building a pipeline |
+| Tue | 11-12 | 📘 **targets/geotargets**: general discussion and feedback |
+| Wed | 10-11 | 💬 **targets/geotargets**: Office hour 6 |
+| Wed | 11-12 | 💬 **targets/geotargets**: Office hour / feedback |
+
+<!-- ## Combined timetable data -->
+
+```{r}
+#| label: timetable-data
+#| eval: false
+#| echo: false
+
+timetable <- tibble::tribble(
+  ~week, ~date,      ~day,   ~time,    ~type,     ~course,                ~session,
+  # Week 1 — Aug 3
+  1L,    "Aug 3",    "Mon",  "10-11",  "Content", "R Best Practices",     "Project Organisation — common structures, pitfalls, file paths, RStudio/Positron setup, README",
+  1L,    "Aug 3",    "Mon",  "11-12",  "Content", "R Best Practices",     "Code Style and Readability — consistent names, spaces, indentation, {air} formatter, linters",
+  1L,    "Aug 3",    "Tue",  "10-11",  "Content", "R Best Practices",     "Writing Readable Code — good vs bad variable names, de-chunking code, code review",
+  1L,    "Aug 3",    "Wed",  "10-11",  "Office",  "R Best Practices",     "Office hour 1",
+
+  # Week 2 — Aug 10
+  2L,    "Aug 10",   "Mon",  "10-11",  "Content", "R Best Practices",     "Writing Functions — anatomy of a function, good design, {fnmate}, using a debugger",
+  2L,    "Aug 10",   "Mon",  "11-12",  "Content", "R Best Practices",     "Writing a Reprex / Getting Unstuck — {reprex}, sharing problems, practical debugging tips",
+  2L,    "Aug 10",   "Tue",  "10-11",  "Content", "R Best Practices",     "Putting It All Together — code review on existing project, apply linting, styling, functions",
+  2L,    "Aug 10",   "Wed",  "10-11",  "Office",  "R Best Practices",     "Office hour 2",
+
+  # Week 3 — Aug 17
+  3L,    "Aug 17",   "Mon",  "10-11",  "Content", "Better Graphics",      "Introduction & Scatterplots — ggplot2 philosophy, anatomy, aesthetics (x, y, colour, shape, size)",
+  3L,    "Aug 17",   "Mon",  "11-12",  "Content", "Better Graphics",      "Bar Plots & Histograms — geom_bar vs geom_col, fct_infreq, fill vs colour, position, binwidths",
+  3L,    "Aug 17",   "Tue",  "10-11",  "Content", "Better Graphics",      "Faceting & Small Multiples — facet_wrap, facet_grid, proximity principle, ordering",
+  3L,    "Aug 17",   "Wed",  "10-11",  "Office",  "R Best Practices",     "Office Hour 3",
+  3L,    "Aug 17",   "Wed",  "11-12",  "Office",  "Better Graphics",      "Office Hour 1",
+
+  # Week 4 — Aug 24
+  4L,    "Aug 24",   "Mon",  "10-11",  "Content", "Better Graphics",      "Tidy Data & Line Graphs — why tidy data matters, pivot_longer/wider, geom_line, group",
+  4L,    "Aug 24",   "Mon",  "11-12",  "Content", "Better Graphics",      "Polishing and Extensions — labs, colourblind palettes, themes, legends, patchwork, marquee, saving",
+  4L,    "Aug 24",   "Tue",  "10-11",  "Content", "Better Graphics",      "Advanced Topics & Practice — overplotting, gghighlight, ggrepel, boxplots, gganimate, ggiraph, naniar",
+  4L,    "Aug 24",   "Wed",  "10-11",  "Office",  "Better Graphics",      "Office hour 2",
+
+  # Week 5 — Aug 31
+  5L,    "Aug 31",   "Mon",  "10-11",  "Content", "Functions & Debugging", "Why Functions Matter — managing complexity, expressing ideas, beyond DRY, DRRY",
+  5L,    "Aug 31",   "Mon",  "11-12",  "Content", "Functions & Debugging", "Function Fundamentals & Design — anatomy, signatures, outside-in vs inside-out, naming",
+  5L,    "Aug 31",   "Tue",  "10-11",  "Content", "Functions & Debugging", "Writing Functions in Practice — imagining ideal interfaces, extracting from code, ladder of abstraction",
+  5L,    "Aug 31",   "Wed",  "10-11",  "Office",  "Functions & Debugging", "Office hour 1",
+  5L,    "Aug 31",   "Wed",  "11-12",  "Office",  "Better Graphics",      "Office hour 3",
+
+  # Week 6 — Sep 7
+  6L,    "Sep 7",    "Mon",  "10-11",  "Content", "Functions & Debugging", "Debugging Basics & Tools — reading errors, browser(), debug(), debugonce(), RStudio debugging",
+  6L,    "Sep 7",    "Mon",  "11-12",  "Content", "Functions & Debugging", "Cleaning Up a Data Analysis — script to functions, chunking code, practical debugging with browser()",
+  6L,    "Sep 7",    "Tue",  "10-11",  "Content", "Functions & Debugging", "Measuring, and improving function speed",
+  6L,    "Sep 7",    "Tue",  "11-12",  "Content", "Functions & Debugging", "Practice & Integration — work on your own code, apply approaches, code as writing",
+  6L,    "Sep 7",    "Wed",  "10-11",  "Office",  "Functions & Debugging", "Office hour 2",
+
+  # Week 7 — Sep 14
+  7L,    "Sep 14",   "Mon",  "10-11",  "Content", "Quarto",               "Introduction & Basic Documents — why Quarto, installation, first .qmd, YAML, rendering workflow",
+  7L,    "Sep 14",   "Mon",  "11-12",  "Content", "Quarto",               "Multiple Output Formats — HTML/PDF/Word, format-specific YAML, keyboard shortcuts",
+  7L,    "Sep 14",   "Tue",  "10-11",  "Content", "Quarto",               "Figures & Tables — fig-cap, fig-width/height, cross-referencing, kable, gt, flextable",
+  7L,    "Sep 14",   "Wed",  "10-11",  "Office",  "Quarto",               "Office hour 1",
+  7L,    "Sep 14",   "Wed",  "11-12",  "Office",  "Functions & Debugging", "Office hour 3",
+
+  # Week 8 — Sep 21
+  8L,    "Sep 21",   "Mon",  "10-11",  "Content", "Quarto",               "Mathematics & Cross-References — inline/display math, LaTeX, equation labels, full cross-ref system",
+  8L,    "Sep 21",   "Mon",  "11-12",  "Content", "Quarto",               "Citations & Bibliographies — .bib files, citation syntax, CSL styles, Zotero, debugging",
+  8L,    "Sep 21",   "Tue",  "10-11",  "Content", "Quarto",               "Advanced Topics & Personal Projects — revealjs, websites, books, journal templates, convert your docs",
+  8L,    "Sep 21",   "Wed",  "10-11",  "Office",  "Quarto",               "Office hour 2",
+
+  # Week 9 — Sep 28
+  9L,    "Sep 28",   "Mon",  "10-11",  "Content", "targets",              "Why Pipelines? — where do I start, common problems, intro to {targets}, concepts",
+  9L,    "Sep 28",   "Mon",  "11-12",  "Content", "targets",              "Starting with Functions — functions as unit of understanding, ideal properties, {fnmate}",
+  9L,    "Sep 28",   "Tue",  "10-11",  "Content", "targets",              "Debugging Functions — browser(), debug(), debugonce(), options(recover)",
+  9L,    "Sep 28",   "Wed",  "10-11",  "Office",  "targets",              "Office hour 1",
+  9L,    "Sep 28",   "Wed",  "11-12",  "Office",  "Quarto",               "Office hour 3",
+
+  # Week 10 — Oct 6 (labour day is Oct 5)
+  10L,   "Oct 6",    "Tue",  "10-11",  "Content", "targets",              "Getting Started with {targets} (Part 1) — {tflow} setup, _targets.R, folder structure, tar_assign()",
+  10L,   "Oct 6",    "Tue",  "11-12",  "Content", "targets",              "Getting Started with {targets} (Part 2) — your first pipeline, modifying and rebuilding",
+  10L,   "Oct 6",    "Wed",  "10-11",  "Office",  "targets",              "Office hour 2",
+  10L,   "Oct 6",    "Wed",  "11-12",  "Office",  "targets",              "Office hour 3",
+
+  # Week 11 — Oct 12
+  11L,   "Oct 12",   "Mon",  "10-11",  "Content", "targets",              "Deeper Workflow (Part 1) — tar_read(), tar_quarto(), keyboard shortcuts",
+  11L,   "Oct 12",   "Mon",  "11-12",  "Content", "targets",              "Deeper Workflow (Part 2) — tar_workspaces() to debug issues, common pipeline problems",
+  11L,   "Oct 12",   "Tue",  "11-12",  "Content", "targets",              "Advanced Targets — {crew} parallelisation, branching, HPC",
+  11L,   "Oct 12",   "Tue",  "10-11",  "Content", "targets",              "Production Workflows — organising large projects, convert your own work into a pipeline",
+  11L,   "Oct 12",   "Wed",  "10-11",  "Office",  "targets",              "Office hour 4",
+  11L,   "Oct 12",   "Wed",  "11-12",  "Office",  "targets",              "Office hour 5",
+
+  # Week 12 — Oct 19
+  12L,   "Oct 19",   "Mon",  "10-11",  "Content", "targets",              "Pipeline Review & Next Steps — feedback on your pipeline, resources, open Q&A",
+  12L,   "Oct 19",   "Mon",  "11-12",  "Content", "geotargets",           "Introduction to Geospatial Data — spatial data challenges, {terra} and {sf}",
+  12L,   "Oct 19",   "Tue",  "10-11",  "Content", "geotargets",           "Geospatial Pipelines with {geotargets} — tar_terra_rast(), tar_terra_vect(), building a pipeline",
+  12L,   "Oct 19",   "Tue",  "11-12",  "Content", "targets/geotargets",   "general discussion and feedback",
+  12L,   "Oct 19",   "Wed",  "10-11",  "Office",  "targets/geotargets",   "Office hour 6",
+  12L,   "Oct 19",   "Wed",  "11-12",  "Office",  "targets/geotargets",   "Office hour / feedback"
+)
+```

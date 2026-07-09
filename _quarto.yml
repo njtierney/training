@@ -24,6 +24,12 @@ website:
         href: mailto:info@njtierney.com
       - text: "License: CC BY-NC 4.0"
         href: https://creativecommons.org/licenses/by-nc/4.0/
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "[**Register your interest so you can sign up early**](https://njtierney.typeform.com/to/mxZOOmJD)"
+    type: primary
+    position: below-navbar
 
 from: markdown+autolink_bare_uris 
 

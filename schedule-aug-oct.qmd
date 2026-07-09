@@ -1,0 +1,230 @@
+---
+title: "Training Schedule: August – October 2025"
+subtitle: "12-Week Timetable (Mon–Tue content, Wed office hours)"
+format: html
+---
+
+## Overview
+
+Five courses delivered over 12 weeks (Aug 4 – Oct 24, 2025). Sessions are
+scheduled **Monday–Wednesday** to keep Thursday and Friday free.
+
+- **Monday & Tuesday**: Content delivery (📘)
+- **Wednesday**: Office hours and follow-ups only (💬)
+
+Each standard course runs over **4 weeks**:
+
+- Weeks 1–2: Content delivery (6h across Mon–Tue)
+- Weeks 3–4: Follow-up sessions on Wed (overlap with next course start)
+
+**targets/geotargets** is a double course (12h content) and runs over **4 weeks**
+of teaching + follow-ups.
+
+### Session legend
+
+- 📘 = Content session (1h)
+- 💬 = Office hour / follow-up (1h)
+
+---
+
+## Course 1: R Best Practices (Weeks 1–4)
+
+### Week 1 — Aug 4
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Mon | 1h | 📘 Project Organisation: common structures, pitfalls, file paths, RStudio/Positron setup, README |
+| Mon | 1h | 📘 Code Style and Readability: consistent names, spaces, indentation, {air} formatter, linters |
+| Tue | 1h | 📘 Writing Readable Code: good vs bad variable names, de-chunking code, code review |
+
+### Week 2 — Aug 11
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Mon | 1h | 📘 Writing Functions: anatomy of a function, good design, {fnmate}, using a debugger |
+| Mon | 1h | 📘 Writing a Reprex / Getting Unstuck: {reprex}, sharing problems, practical debugging tips |
+| Tue | 1h | 📘 Putting It All Together: code review on existing project, apply linting, styling, functions |
+| Wed | 1h | 💬 Office hour |
+
+### Week 3 — Aug 18
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Wed | 1h | 💬 Follow-up session with Nick |
+
+### Week 4 — Aug 25
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Wed | 1h | 💬 Follow-up session with Nick |
+
+---
+
+## Course 2: Making Better Graphics (Weeks 3–6)
+
+### Week 3 — Aug 18
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Mon | 1h | 📘 Introduction & Scatterplots: ggplot2 philosophy, anatomy, aesthetics (x, y, colour, shape, size) |
+| Mon | 1h | 📘 Bar Plots & Histograms: geom_bar vs geom_col, fct_infreq, fill vs colour, position, binwidths |
+| Tue | 1h | 📘 Faceting & Small Multiples: facet_wrap, facet_grid, proximity principle, ordering |
+
+### Week 4 — Aug 25
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Mon | 1h | 📘 Tidy Data & Line Graphs: why tidy data matters, pivot_longer/wider, geom_line, group |
+| Mon | 1h | 📘 Polishing and Extensions: labs, colourblind palettes, themes, legends, patchwork, marquee, saving |
+| Tue | 1h | 📘 Advanced Topics & Practice: overplotting, gghighlight, ggrepel, boxplots, gganimate, ggiraph, naniar |
+| Wed | 1h | 💬 Office hour |
+
+### Week 5 — Sep 1
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Wed | 1h | 💬 Follow-up session with Nick |
+
+### Week 6 — Sep 8
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Wed | 1h | 💬 Follow-up session with Nick |
+
+---
+
+## Course 3: Introduction to Functions & Debugging (Weeks 5–8)
+
+### Week 5 — Sep 1
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Mon | 1h | 📘 Why Functions Matter: managing complexity, expressing ideas, beyond DRY, DRRY |
+| Mon | 1h | 📘 Function Fundamentals & Design: anatomy, signatures, outside-in vs inside-out, naming |
+| Tue | 1h | 📘 Writing Functions in Practice: imagining ideal interfaces, extracting from code, ladder of abstraction |
+
+### Week 6 — Sep 8
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Mon | 1h | 📘 Debugging Basics & Tools: reading errors, browser(), debug(), debugonce(), RStudio debugging |
+| Mon | 1h | 📘 Cleaning Up a Data Analysis: script to functions, chunking code, practical debugging with browser() |
+| Tue | 1h | 📘 Practice & Integration: work on your own code, apply approaches, code as writing |
+| Wed | 1h | 💬 Office hour |
+
+### Week 7 — Sep 15
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Wed | 1h | 💬 Follow-up session with Nick |
+
+### Week 8 — Sep 22
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Wed | 1h | 💬 Follow-up session with Nick |
+
+---
+
+## Course 4: Introduction to Quarto (Weeks 7–10)
+
+### Week 7 — Sep 15
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Mon | 1h | 📘 Introduction & Basic Documents: why Quarto, installation, first .qmd, YAML, rendering workflow |
+| Mon | 1h | 📘 Multiple Output Formats: HTML/PDF/Word, format-specific YAML, keyboard shortcuts |
+| Tue | 1h | 📘 Figures & Tables: fig-cap, fig-width/height, cross-referencing, kable, gt, flextable |
+
+### Week 8 — Sep 22
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Mon | 1h | 📘 Mathematics & Cross-References: inline/display math, LaTeX, equation labels, full cross-ref system |
+| Mon | 1h | 📘 Citations & Bibliographies: .bib files, citation syntax, CSL styles, Zotero, debugging |
+| Tue | 1h | 📘 Advanced Topics & Personal Projects: revealjs, websites, books, journal templates, convert your docs |
+| Wed | 1h | 💬 Office hour |
+
+### Week 9 — Sep 29
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Wed | 1h | 💬 Follow-up session with Nick |
+
+### Week 10 — Oct 6
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Wed | 1h | 💬 Follow-up session with Nick |
+
+---
+
+## Course 5: Introduction to targets & geotargets (Weeks 9–12)
+
+*This is a double-length course (12h content + 3h office hours). Some days
+have 2h of content to fit the material into the Mon–Tue slots.*
+
+### Week 9 — Sep 29
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Mon | 1h | 📘 Why Pipelines? Where do I start, common problems, intro to {targets}, concepts |
+| Mon | 1h | 📘 Starting with Functions: functions as unit of understanding, ideal properties, {fnmate} |
+| Tue | 1h | 📘 Debugging Functions: browser(), debug(), debugonce(), options(recover) |
+| Tue | 1h | 📘 Getting Started with {targets} (Part 1): {tflow} setup, _targets.R, folder structure, tar_assign() |
+
+### Week 10 — Oct 6
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Mon | 1h | 📘 Getting Started with {targets} (Part 2): your first pipeline, modifying and rebuilding |
+| Mon | 1h | 📘 Deeper Workflow (Part 1): tar_read(), tar_quarto(), keyboard shortcuts |
+| Tue | 1h | 📘 Deeper Workflow (Part 2): tar_workspaces() to debug issues, common pipeline problems |
+| Tue | 1h | 📘 Advanced Targets: {crew} parallelisation, branching, HPC |
+| Wed | 1h | 💬 Office hour |
+
+### Week 11 — Oct 13
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Mon | 1h | 📘 Introduction to Geospatial Data: spatial data challenges, {terra} and {sf} |
+| Mon | 1h | 📘 Geospatial Pipelines with {geotargets}: tar_terra_rast(), tar_terra_vect(), building a pipeline |
+| Tue | 1h | 📘 Production Workflows: organising large projects, convert your own work into a pipeline |
+| Tue | 1h | 📘 Pipeline Review & Next Steps: feedback on your pipeline, resources, open Q&A |
+| Wed | 1h | 💬 Office hour |
+
+### Week 12 — Oct 20
+
+| Day | Time  | Session |
+|-----|-------|---------|
+| Wed | 1h | 💬 Follow-up session with Nick |
+
+---
+
+## Summary: Weekly Overview
+
+| Week | Dates | Mon | Tue | Wed |
+|------|-------|-----|-----|-----|
+| 1 | Aug 4 | R Best Prac (2h) | R Best Prac (1h) | — |
+| 2 | Aug 11 | R Best Prac (2h) | R Best Prac (1h) | OH (1h) |
+| 3 | Aug 18 | Better Vis (2h) | Better Vis (1h) | R BP follow-up (1h) |
+| 4 | Aug 25 | Better Vis (2h) | Better Vis (1h) | Vis OH + R BP follow-up (2h) |
+| 5 | Sep 1 | Fun & Debug (2h) | Fun & Debug (1h) | Vis follow-up (1h) |
+| 6 | Sep 8 | Fun & Debug (2h) | Fun & Debug (1h) | F&D OH + Vis follow-up (2h) |
+| 7 | Sep 15 | Quarto (2h) | Quarto (1h) | F&D follow-up (1h) |
+| 8 | Sep 22 | Quarto (2h) | Quarto (1h) | Quarto OH + F&D follow-up (2h) |
+| 9 | Sep 29 | targets (2h) | targets (2h) | Quarto follow-up (1h) |
+| 10 | Oct 6 | targets (2h) | targets (2h) | targets OH + Quarto follow-up (2h) |
+| 11 | Oct 13 | geotargets (2h) | targets (2h) | targets/geotargets OH (1h) |
+| 12 | Oct 20 | — | — | targets follow-up (1h) |
+
+### Total hours per course
+
+| Course | Content | Office Hours / Follow-ups | Total |
+|--------|:-------:|:-------------------------:|:-----:|
+| R Best Practices | 6h | 3h | 9h |
+| Making Better Graphics | 6h | 3h | 9h |
+| Functions & Debugging | 6h | 3h | 9h |
+| Introduction to Quarto | 6h | 3h | 9h |
+| targets & geotargets | 12h | 3h | 15h |
+| **Total** | **36h** | **15h** | **51h** |

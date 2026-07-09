@@ -21,3 +21,5 @@ site_libs/
 *.html
 .claude
 .how-to-submodule.md
+
+**/*.quarto_ipynb
